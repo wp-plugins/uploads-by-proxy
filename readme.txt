@@ -82,6 +82,9 @@ function ubp_ip_url( $url, $domain ) {
 
 `<?php echo gethostbyname( $_GET['domain'] ); ?>`
 
+= Where are those icons in the wordpress.org plugin header from? =
+
+[Font Awesome](http://fortawesome.github.com/Font-Awesome)
 
 == Changelog ==
 
